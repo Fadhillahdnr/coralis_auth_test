@@ -41,7 +41,7 @@ CREATE DATABASE coralis_auth;
 ```
 
 3. Import database:
-- Gunakan file `database/database.sql`
+- Gunakan file `database/coralis_auth.sql`
 - Import melalui phpMyAdmin atau MySQL client
 
 ---
