@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
                     _ProfileItem(
                       icon: Icons.phone,
                       label: "No Handphone",
-                      value: "0853 5366 3307",
+                      value: "0877 8679 9710",
                     ),
                     Divider(),
                     _ProfileItem(
